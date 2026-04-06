@@ -174,8 +174,6 @@ Contributions are welcome!
 
 ## 📜 License
 
-MIT License
-
 ---
 
 ## 🧠 About pCLAW
